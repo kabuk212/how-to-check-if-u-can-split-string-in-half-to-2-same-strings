@@ -1,0 +1,1 @@
+# how-to-check-if-u-can-split-string-in-half-to-2-same-strings
